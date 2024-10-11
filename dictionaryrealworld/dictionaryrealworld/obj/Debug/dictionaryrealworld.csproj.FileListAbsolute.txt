@@ -1,0 +1,7 @@
+D:\coding\repos\dictionaryrealworld\dictionaryrealworld\bin\Debug\dictionaryrealworld.exe.config
+D:\coding\repos\dictionaryrealworld\dictionaryrealworld\bin\Debug\dictionaryrealworld.exe
+D:\coding\repos\dictionaryrealworld\dictionaryrealworld\bin\Debug\dictionaryrealworld.pdb
+D:\coding\repos\dictionaryrealworld\dictionaryrealworld\obj\Debug\dictionaryrealworld.csproj.AssemblyReference.cache
+D:\coding\repos\dictionaryrealworld\dictionaryrealworld\obj\Debug\dictionaryrealworld.csproj.CoreCompileInputs.cache
+D:\coding\repos\dictionaryrealworld\dictionaryrealworld\obj\Debug\dictionaryrealworld.exe
+D:\coding\repos\dictionaryrealworld\dictionaryrealworld\obj\Debug\dictionaryrealworld.pdb

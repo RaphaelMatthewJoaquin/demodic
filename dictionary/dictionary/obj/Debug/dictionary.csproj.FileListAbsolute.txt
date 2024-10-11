@@ -1,0 +1,7 @@
+D:\coding\repos\dictionary\dictionary\bin\Debug\dictionary.exe.config
+D:\coding\repos\dictionary\dictionary\bin\Debug\dictionary.exe
+D:\coding\repos\dictionary\dictionary\bin\Debug\dictionary.pdb
+D:\coding\repos\dictionary\dictionary\obj\Debug\dictionary.csproj.AssemblyReference.cache
+D:\coding\repos\dictionary\dictionary\obj\Debug\dictionary.csproj.CoreCompileInputs.cache
+D:\coding\repos\dictionary\dictionary\obj\Debug\dictionary.exe
+D:\coding\repos\dictionary\dictionary\obj\Debug\dictionary.pdb
